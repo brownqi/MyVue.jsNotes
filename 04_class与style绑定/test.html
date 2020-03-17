@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>class与style绑定</title>
+    <style>
+        .aClass {
+            color: red;
+        }
+
+        .bClass {
+            color: blue;
+        }
+
+        .cClass {
+            font-size: 32px;
+        }
+    </style>
+</head>
+<body>
+
+<div id="demo">
+    <h2>1.class绑定：:class='xxx'</h2>
+    <p class="cClass" :class="a">类是字符串</p>
+    <p :class="{aClass:isA,bClass:isB}">类是对象</p>
+    <p :class="['aClass','cClass']">类是数组</p>
+
+    <h2>2.sytle绑定</h2>
+    <p :style="{color:activeColor,fontSize:fontSize+'px'}">sytle绑定</p>
+
+    <button @click="update">update</button>
+</div>
+
+<script type="text/javascript" src="../js/vue.js"></script>
+<script type="text/javascript">
+    new Vue({
+        el: '#demo',
+        data: {
+            a: 'aClass',
+            isA:true,
+            isB:false,
+            activeColor:'red',
+            fontSize:20
+        },
+        methods: {
+            update() {
+                this.a = 'bClass';
+                this.isA = false;
+                this.isB = true;
+                this.activeColor = 'skyblue';
+                this.fontSize = '64';
+            }
+        }
+    })
+</script>
+
+</body>
+</html>
