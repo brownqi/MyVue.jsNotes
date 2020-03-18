@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>内置指令与自定义指令</title>
+    <style>
+        [v-cloak]{
+            display: none;
+        }
+    </style>
+</head>
+<body>
+
+<div id="example">
+    <p ref="content">brownqi.cn</p>
+    <button @click="hint">提示</button>
+    <p v-text="msg" style="background: skyblue"></p>
+    <p v-cloak style="background: gainsboro">{{msg}}</p>
+</div>
+
+<script type="text/javascript" src="../js/vue.js"></script>
+<script type="text/javascript">
+    alert('---')
+    new Vue({
+        el:'#example',
+        data:{
+            msg:'brownqi'
+        },
+        methods:{
+            hint(){
+                alert(this.$refs.content.textContent)
+            }
+        }
+    })
+</script>
+
+</body>
+</html>
