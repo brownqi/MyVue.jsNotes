@@ -1,0 +1,1160 @@
+{
+  "category": [
+    [
+      {
+        "icon": "#icon-meishi",
+        "type": "美食",
+        "href": "/foodie.html",
+        "list": [
+          "代金券",
+          "甜点",
+          "饮品",
+          "火锅",
+          "自助餐",
+          "小吃",
+          "快餐",
+          "日韩料理",
+          "西餐",
+          "聚餐",
+          "宴请",
+          "烧烤",
+          "烤肉",
+          "东北菜",
+          "川湘菜",
+          "江浙菜",
+          "香锅",
+          "烤鱼",
+          "粤港菜",
+          "中式烧烤/烤串",
+          "西北菜",
+          "咖啡",
+          "酒吧",
+          "茶馆",
+          "云贵菜",
+          "东南亚菜",
+          "海鲜",
+          "素食",
+          "台湾/客家菜",
+          "创意菜",
+          "汤/粥/炖菜",
+          "蒙餐",
+          "新疆菜",
+          "其他美食",
+          "京菜",
+          "鲁菜"
+        ]
+      }
+    ],
+    [
+      {
+        "icon": "#icon-meituan2",
+        "type": "外卖",
+        "href": "",
+        "list": ["美团外卖"]
+      }
+    ],
+    [
+      {
+        "icon": "#icon-jiudian",
+        "type": "酒店",
+        "href": "",
+        "list": ["经济型", "舒适/三星", "高档/四星", "豪华/五星"]
+      }
+    ],
+    [
+      {
+        "icon": "#icon-mingsu",
+        "type": "榛果民宿",
+        "href": "",
+        "list": [
+          "上海",
+          "成都",
+          "北京",
+          "重庆",
+          "南京",
+          "杭州",
+          "广州",
+          "西安",
+          "武汉",
+          "厦门",
+          "长沙",
+          "青岛",
+          "深圳",
+          "天津",
+          "苏州"
+        ]
+      },
+      {
+        "icon": "",
+        "type": "热门房源",
+        "href": "",
+        "list": ["复式Loft", "别墅"]
+      }
+    ],
+    [
+      {
+        "icon": "#icon-maoyandianying",
+        "type": "猫眼电影",
+        "href": "",
+        "list": [
+          "冰雪奇缘2",
+          "两只老虎",
+          "利刃出鞘",
+          "南方车站的聚会",
+          "勇敢者游戏2：再战巅峰",
+          "一生有你2019",
+          "星际探索",
+          "若能与你共乘海浪之上",
+          "吹哨人",
+          "冰峰暴"
+        ]
+      },
+      {
+        "icon": "",
+        "type": "热门电影",
+        "href": "",
+        "list": [
+          "幸福蓝海国际影城",
+          "万达影城",
+          "金逸影城",
+          "卢米埃影城",
+          "中影国际影城",
+          "横店电影城",
+          "星美国际影城",
+          "海上国际影城",
+          "大地影院",
+          "耀莱成龙国际影城"
+        ]
+      }
+    ],
+    [
+      {
+        "icon": "#icon-jipiaohuochepiao",
+        "type": "机票",
+        "href": "",
+        "list": []
+      },
+      {
+        "icon": "",
+        "type": "火车票",
+        "href": "",
+        "list": []
+      }
+    ],
+    [
+      {
+        "icon": "#icon-xiuxianyule",
+        "type": "休闲娱乐",
+        "href": "",
+        "list": []
+      },
+      {
+        "icon": "",
+        "type": "KTV",
+        "href": "",
+        "list": []
+      }
+    ],
+    [
+      {
+        "icon": "#icon-shenghuofuwu",
+        "type": "生活服务",
+        "href": "",
+        "list": []
+      }
+    ],
+    [
+      {
+        "icon": "#icon-liren",
+        "type": "丽人",
+        "href": "",
+        "list": []
+      },
+      {
+        "icon": "",
+        "type": "美发",
+        "href": "",
+        "list": []
+      },
+      {
+        "icon": "",
+        "type": "医疗美容",
+        "href": "",
+        "list": []
+      }
+    ],
+    [
+      {
+        "icon": "#icon-zuanjie",
+        "type": "结婚",
+        "href": "",
+        "list": []
+      },
+      {
+        "icon": "",
+        "type": "婚纱摄影",
+        "href": "",
+        "list": []
+      },
+      {
+        "icon": "",
+        "type": "婚宴",
+        "href": "",
+        "list": []
+      }
+    ],
+    [
+      {
+        "icon": "#icon-qinzi",
+        "type": "亲子摄影",
+        "href": "",
+        "list": []
+      },
+      {
+        "icon": "",
+        "type": "儿童乐园",
+        "href": "",
+        "list": []
+      },
+      {
+        "icon": "",
+        "type": "幼儿教育",
+        "href": "",
+        "list": []
+      },
+      {
+        "icon": "",
+        "type": "孕妇护理",
+        "href": "",
+        "list": []
+      }
+    ],
+    [
+      {
+        "icon": "#icon-jianshen",
+        "type": "运动中心",
+        "href": "",
+        "list": []
+      },
+      {
+        "icon": "",
+        "type": "健身中心",
+        "href": "",
+        "list": []
+      }
+    ],
+    [
+      {
+        "icon": "#icon-jiazhuang",
+        "type": "家装",
+        "href": "",
+        "list": []
+      },
+      {
+        "icon": "",
+        "type": "建材",
+        "href": "",
+        "list": []
+      },
+      {
+        "icon": "",
+        "type": "家具",
+        "href": "",
+        "list": []
+      }
+    ],
+    [
+      {
+        "icon": "#icon-peixun",
+        "type": "音乐培训",
+        "href": "",
+        "list": []
+      },
+      {
+        "icon": "",
+        "type": "职业培训",
+        "href": "",
+        "list": []
+      },
+      {
+        "icon": "",
+        "type": "外语培训",
+        "href": "",
+        "list": []
+      },
+      {
+        "icon": "",
+        "type": "美术培训",
+        "href": "",
+        "list": []
+      }
+    ],
+    [
+      {
+        "icon": "#icon-yiliao",
+        "type": "医疗健康",
+        "href": "",
+        "list": []
+      },
+      {
+        "icon": "",
+        "type": "爱车",
+        "href": "",
+        "list": []
+      },
+      {
+        "icon": "",
+        "type": "爱宠",
+        "href": "",
+        "list": []
+      }
+    ],
+    [
+      {
+        "icon": "#icon-_jiuba",
+        "type": "酒吧",
+        "href": "",
+        "list": []
+      },
+      {
+        "icon": "",
+        "type": "密室逃脱",
+        "href": "",
+        "list": []
+      }
+    ]
+  ],
+  "quality": [
+    {
+      "title": "HONEY CAKE 哈尼·蛋糕（玄武店）",
+      "info": "网红爱心慕斯喷砂款蛋糕1个，约7英寸，心形",
+      "price": "139",
+      "oldPrice": "299",
+      "addr": "丹凤街",
+      "img": "http://p1.meituan.net/msmerchant/ac7f940428c3b175e35ba7dbedffd04f218020.jpg@460w_260h_1e_1c",
+      "type": 0
+    },
+    {
+      "title": "HONEY CAKE 哈尼·蛋糕（玄武店）",
+      "info": "网红爱心慕斯喷砂款蛋糕1个，约7英寸，心形",
+      "price": "139",
+      "oldPrice": "299",
+      "addr": "丹凤街",
+      "img": "http://p1.meituan.net/msmerchant/ac7f940428c3b175e35ba7dbedffd04f218020.jpg@460w_260h_1e_1c",
+      "type": 0
+    },
+    {
+      "title": "HONEY CAKE 哈尼·蛋糕（玄武店）",
+      "info": "网红爱心慕斯喷砂款蛋糕1个，约7英寸，心形",
+      "price": "139",
+      "oldPrice": "299",
+      "addr": "丹凤街",
+      "img": "http://p1.meituan.net/msmerchant/ac7f940428c3b175e35ba7dbedffd04f218020.jpg@460w_260h_1e_1c",
+      "type": 0
+    },
+    {
+      "title": "HONEY CAKE 哈尼·蛋糕（玄武店）",
+      "info": "网红爱心慕斯喷砂款蛋糕1个，约7英寸，心形",
+      "price": "139",
+      "oldPrice": "299",
+      "addr": "丹凤街",
+      "img": "http://p1.meituan.net/msmerchant/ac7f940428c3b175e35ba7dbedffd04f218020.jpg@460w_260h_1e_1c",
+      "type": 0
+    },
+    {
+      "title": "HONEY CAKE 哈尼·蛋糕（玄武店）",
+      "info": "网红爱心慕斯喷砂款蛋糕1个，约7英寸，心形",
+      "price": "139",
+      "oldPrice": "299",
+      "addr": "丹凤街",
+      "img": "http://p1.meituan.net/msmerchant/ac7f940428c3b175e35ba7dbedffd04f218020.jpg@460w_260h_1e_1c",
+      "type": 0
+    },
+    {
+      "title": "HONEY CAKE 哈尼·蛋糕（玄武店）",
+      "info": "网红爱心慕斯喷砂款蛋糕1个，约7英寸，心形",
+      "price": "139",
+      "oldPrice": "299",
+      "addr": "丹凤街",
+      "img": "http://p1.meituan.net/msmerchant/ac7f940428c3b175e35ba7dbedffd04f218020.jpg@460w_260h_1e_1c",
+      "type": 0
+    },
+    {
+      "title": "HONEY CAKE 哈尼·蛋糕（玄武店）",
+      "info": "网红爱心慕斯喷砂款蛋糕1个，约7英寸，心形",
+      "price": "139",
+      "oldPrice": "299",
+      "addr": "丹凤街",
+      "img": "//p1.meituan.net/msmerchant/dfd24e4c909731035b5e93753778a617113402.jpg@460w_260h_1e_1c",
+      "type": 1
+    },
+    {
+      "title": "HONEY CAKE 哈尼·蛋糕（玄武店）",
+      "info": "网红爱心慕斯喷砂款蛋糕1个，约7英寸，心形",
+      "price": "139",
+      "oldPrice": "299",
+      "addr": "丹凤街",
+      "img": "//p1.meituan.net/msmerchant/dfd24e4c909731035b5e93753778a617113402.jpg@460w_260h_1e_1c",
+      "type": 1
+    },
+    {
+      "title": "HONEY CAKE 哈尼·蛋糕（玄武店）",
+      "info": "网红爱心慕斯喷砂款蛋糕1个，约7英寸，心形",
+      "price": "139",
+      "oldPrice": "299",
+      "addr": "丹凤街",
+      "img": "http://p1.meituan.net/msmerchant/ac7f940428c3b175e35ba7dbedffd04f218020.jpg@460w_260h_1e_1c",
+      "type": 1
+    },
+    {
+      "title": "HONEY CAKE 哈尼·蛋糕（玄武店）",
+      "info": "网红爱心慕斯喷砂款蛋糕1个，约7英寸，心形",
+      "price": "139",
+      "oldPrice": "299",
+      "addr": "丹凤街",
+      "img": "http://p1.meituan.net/msmerchant/ac7f940428c3b175e35ba7dbedffd04f218020.jpg@460w_260h_1e_1c",
+      "type": 1
+    },
+    {
+      "title": "HONEY CAKE 哈尼·蛋糕（玄武店）",
+      "info": "网红爱心慕斯喷砂款蛋糕1个，约7英寸，心形",
+      "price": "139",
+      "oldPrice": "299",
+      "addr": "丹凤街",
+      "img": "http://p1.meituan.net/msmerchant/ac7f940428c3b175e35ba7dbedffd04f218020.jpg@460w_260h_1e_1c",
+      "type": 1
+    },
+    {
+      "title": "HONEY CAKE 哈尼·蛋糕（玄武店）",
+      "info": "网红爱心慕斯喷砂款蛋糕1个，约7英寸，心形",
+      "price": "139",
+      "oldPrice": "299",
+      "addr": "丹凤街",
+      "img": "http://p1.meituan.net/msmerchant/ac7f940428c3b175e35ba7dbedffd04f218020.jpg@460w_260h_1e_1c",
+      "type": 1
+    },
+    {
+      "title": "HONEY CAKE 哈尼·蛋糕（玄武店）",
+      "info": "网红爱心慕斯喷砂款蛋糕1个，约7英寸，心形",
+      "price": "139",
+      "oldPrice": "299",
+      "addr": "丹凤街",
+      "img": "https://p1.meituan.net/merchantpic/5585d36267c63505e41cced5d947b296220303.jpg@240w_180h_1e_1c_1l%7Cwatermark=1&&r=2&p=9&x=2&y=2&relative=1&o=20%7C460w_260h_1e_1c",
+      "type": 2
+    },
+    {
+      "title": "HONEY CAKE 哈尼·蛋糕（玄武店）",
+      "info": "网红爱心慕斯喷砂款蛋糕1个，约7英寸，心形",
+      "price": "139",
+      "oldPrice": "299",
+      "addr": "丹凤街",
+      "img": "https://p1.meituan.net/merchantpic/5585d36267c63505e41cced5d947b296220303.jpg@240w_180h_1e_1c_1l%7Cwatermark=1&&r=2&p=9&x=2&y=2&relative=1&o=20%7C460w_260h_1e_1c",
+      "type": 2
+    },
+    {
+      "title": "HONEY CAKE 哈尼·蛋糕（玄武店）",
+      "info": "网红爱心慕斯喷砂款蛋糕1个，约7英寸，心形",
+      "price": "139",
+      "oldPrice": "299",
+      "addr": "丹凤街",
+      "img": "http://p1.meituan.net/msmerchant/ac7f940428c3b175e35ba7dbedffd04f218020.jpg@460w_260h_1e_1c",
+      "type": 2
+    },
+    {
+      "title": "HONEY CAKE 哈尼·蛋糕（玄武店）",
+      "info": "网红爱心慕斯喷砂款蛋糕1个，约7英寸，心形",
+      "price": "139",
+      "oldPrice": "299",
+      "addr": "丹凤街",
+      "img": "http://p1.meituan.net/msmerchant/ac7f940428c3b175e35ba7dbedffd04f218020.jpg@460w_260h_1e_1c",
+      "type": 2
+    },
+    {
+      "title": "HONEY CAKE 哈尼·蛋糕（玄武店）",
+      "info": "网红爱心慕斯喷砂款蛋糕1个，约7英寸，心形",
+      "price": "139",
+      "oldPrice": "299",
+      "addr": "丹凤街",
+      "img": "http://p1.meituan.net/msmerchant/ac7f940428c3b175e35ba7dbedffd04f218020.jpg@460w_260h_1e_1c",
+      "type": 2
+    },
+    {
+      "title": "HONEY CAKE 哈尼·蛋糕（玄武店）",
+      "info": "网红爱心慕斯喷砂款蛋糕1个，约7英寸，心形",
+      "price": "139",
+      "oldPrice": "299",
+      "addr": "丹凤街",
+      "img": "http://p1.meituan.net/msmerchant/ac7f940428c3b175e35ba7dbedffd04f218020.jpg@460w_260h_1e_1c",
+      "type": 2
+    },
+    {
+      "title": "HONEY CAKE 哈尼·蛋糕（玄武店）",
+      "info": "网红爱心慕斯喷砂款蛋糕1个，约7英寸，心形",
+      "price": "139",
+      "oldPrice": "299",
+      "addr": "丹凤街",
+      "img": "https://p0.meituan.net/deal/201301/29/141704_2488250.jpg@460w_260h_1e_1c",
+      "type": 3
+    },
+    {
+      "title": "HONEY CAKE 哈尼·蛋糕（玄武店）",
+      "info": "网红爱心慕斯喷砂款蛋糕1个，约7英寸，心形",
+      "price": "139",
+      "oldPrice": "299",
+      "addr": "丹凤街",
+      "img": "https://p0.meituan.net/deal/201301/29/141704_2488250.jpg@460w_260h_1e_1c",
+      "type": 3
+    },
+    {
+      "title": "HONEY CAKE 哈尼·蛋糕（玄武店）",
+      "info": "网红爱心慕斯喷砂款蛋糕1个，约7英寸，心形",
+      "price": "139",
+      "oldPrice": "299",
+      "addr": "丹凤街",
+      "img": "http://p1.meituan.net/msmerchant/ac7f940428c3b175e35ba7dbedffd04f218020.jpg@460w_260h_1e_1c",
+      "type": 3
+    },
+    {
+      "title": "HONEY CAKE 哈尼·蛋糕（玄武店）",
+      "info": "网红爱心慕斯喷砂款蛋糕1个，约7英寸，心形",
+      "price": "139",
+      "oldPrice": "299",
+      "addr": "丹凤街",
+      "img": "http://p1.meituan.net/msmerchant/ac7f940428c3b175e35ba7dbedffd04f218020.jpg@460w_260h_1e_1c",
+      "type": 3
+    },
+    {
+      "title": "HONEY CAKE 哈尼·蛋糕（玄武店）",
+      "info": "网红爱心慕斯喷砂款蛋糕1个，约7英寸，心形",
+      "price": "139",
+      "oldPrice": "299",
+      "addr": "丹凤街",
+      "img": "http://p1.meituan.net/msmerchant/ac7f940428c3b175e35ba7dbedffd04f218020.jpg@460w_260h_1e_1c",
+      "type": 3
+    },
+    {
+      "title": "HONEY CAKE 哈尼·蛋糕（玄武店）",
+      "info": "网红爱心慕斯喷砂款蛋糕1个，约7英寸，心形",
+      "price": "139",
+      "oldPrice": "299",
+      "addr": "丹凤街",
+      "img": "http://p1.meituan.net/msmerchant/ac7f940428c3b175e35ba7dbedffd04f218020.jpg@460w_260h_1e_1c",
+      "type": 3
+    },
+    {
+      "title": "HONEY CAKE 哈尼·蛋糕（玄武店）",
+      "info": "网红爱心慕斯喷砂款蛋糕1个，约7英寸，心形",
+      "price": "139",
+      "oldPrice": "299",
+      "addr": "丹凤街",
+      "img": "https://p1.meituan.net/tdchotel/41d7e0776a5ad290b1cfcc3013b835a0302355.jpg@460w_260h_1e_1c",
+      "type": 4
+    },
+    {
+      "title": "HONEY CAKE 哈尼·蛋糕（玄武店）",
+      "info": "网红爱心慕斯喷砂款蛋糕1个，约7英寸，心形",
+      "price": "139",
+      "oldPrice": "299",
+      "addr": "丹凤街",
+      "img": "https://p1.meituan.net/tdchotel/41d7e0776a5ad290b1cfcc3013b835a0302355.jpg@460w_260h_1e_1c",
+      "type": 4
+    },
+    {
+      "title": "HONEY CAKE 哈尼·蛋糕（玄武店）",
+      "info": "网红爱心慕斯喷砂款蛋糕1个，约7英寸，心形",
+      "price": "139",
+      "oldPrice": "299",
+      "addr": "丹凤街",
+      "img": "http://p1.meituan.net/msmerchant/ac7f940428c3b175e35ba7dbedffd04f218020.jpg@460w_260h_1e_1c",
+      "type": 4
+    },
+    {
+      "title": "HONEY CAKE 哈尼·蛋糕（玄武店）",
+      "info": "网红爱心慕斯喷砂款蛋糕1个，约7英寸，心形",
+      "price": "139",
+      "oldPrice": "299",
+      "addr": "丹凤街",
+      "img": "http://p1.meituan.net/msmerchant/ac7f940428c3b175e35ba7dbedffd04f218020.jpg@460w_260h_1e_1c",
+      "type": 4
+    },
+    {
+      "title": "HONEY CAKE 哈尼·蛋糕（玄武店）",
+      "info": "网红爱心慕斯喷砂款蛋糕1个，约7英寸，心形",
+      "price": "139",
+      "oldPrice": "299",
+      "addr": "丹凤街",
+      "img": "http://p1.meituan.net/msmerchant/ac7f940428c3b175e35ba7dbedffd04f218020.jpg@460w_260h_1e_1c",
+      "type": 4
+    },
+    {
+      "title": "HONEY CAKE 哈尼·蛋糕（玄武店）",
+      "info": "网红爱心慕斯喷砂款蛋糕1个，约7英寸，心形",
+      "price": "139",
+      "oldPrice": "299",
+      "addr": "丹凤街",
+      "img": "http://p1.meituan.net/msmerchant/ac7f940428c3b175e35ba7dbedffd04f218020.jpg@460w_260h_1e_1c",
+      "type": 4
+    }
+  ],
+  "movie": {
+    "hot": [
+      {
+        "name": "南方车站的聚会",
+        "count": 163918,
+        "imgSrc": "https://p0.meituan.net/movie/6d1a970c7fefb016006b0af099d8ff38867262.jpg@267w_371h_1e_1c"
+      },
+      {
+        "name": "吹哨人",
+        "count": 52616,
+        "imgSrc": "https://p0.meituan.net/movie/2cbc83f180080382b7754652b04718152049777.jpg@267w_371h_1e_1c"
+      },
+      {
+        "name": "勇敢者游戏2：再战巅峰",
+        "count": 111680,
+        "imgSrc": "https://p0.meituan.net/movie/33ed2155753f63862b103daf1d9f35933842234.jpg@267w_371h_1e_1c"
+      },
+      {
+        "name": "红旗渠之归来仍是少年",
+        "count": 5268,
+        "imgSrc": "https://p1.meituan.net/movie/b208ac7b519aaaa2f775a5ff0d86d4764331124.jpg@267w_371h_1e_1c"
+      },
+      {
+        "name": "若能与你共乘海浪之上",
+        "count": 90858,
+        "imgSrc": "https://p0.meituan.net/movie/bf2a8fed75e718413273ba7fb0082f38571064.jpg@267w_371h_1e_1c"
+      }
+    ],
+    "coming": [
+      {
+        "name": "迷局伏香",
+        "count": 5560,
+        "imgSrc": "https://p0.meituan.net/movie/369f607a4cd19b1de1d9733f4fa585393021648.jpg@267w_371h_1e_1c"
+      },
+      {
+        "name": "兰心大剧院",
+        "count": 26323,
+        "imgSrc": "https://p0.meituan.net/movie/f743028cd46c58c0764bb2d162925b0c1894141.jpg@267w_371h_1e_1c"
+      },
+      {
+        "name": "老伴，让我们再爱一次",
+        "count": 914,
+        "imgSrc": "https://p1.meituan.net/moviemachine/9f09b1e03941f3d9ba7b2982fbdfbdf44809538.jpg@267w_371h_1e_1c"
+      },
+      {
+        "name": "那是风华",
+        "count": 121,
+        "imgSrc": "https://p1.meituan.net/movie/5ca3da9ed2162d48f870f917ae375cbe940086.jpg@267w_371h_1e_1c"
+      },
+      {
+        "name": "天·火",
+        "count": 24190,
+        "imgSrc": "https://p0.meituan.net/movie/f8498102dc076de94e78adcfe1cefb34529684.jpg@267w_371h_1e_1c"
+      }
+    ]
+  },
+  "shops": [
+    [
+      {
+        "id": 1,
+        "name": "金粮酸菜鱼",
+        "rating": 4.2,
+        "pre_price": 20,
+        "send_price": 3,
+        "send_time": 30,
+        "path": "https://p1.meituan.net/waimaipoi/ccd0ec84cbe2c8d86efcd6dcea238b32363144.jpg"
+      },
+      {
+        "id": 2,
+        "name": "回味鸭血粉丝汤(天迈广场店)",
+        "rating": 4.7,
+        "pre_price": 10,
+        "send_price": 3,
+        "send_time": 35,
+        "path": "https://p0.meituan.net/waimaipoi/71189246ac95aef13e7b0fb3e60f777f55677.jpg"
+      },
+      {
+        "id": 3,
+        "name": "石上百味（游坊城店）",
+        "rating": 4.3,
+        "pre_price": 20,
+        "send_price": 4,
+        "send_time": 41,
+        "path": "https://p0.meituan.net/waimaipoi/4baf665c55aa95b7843db7e0b46ca88a33435.jpg"
+      },
+      {
+        "id": 4,
+        "name": "汉堡王（南京油坊城店22829）",
+        "rating": 4.2,
+        "pre_price": 20,
+        "send_price": 4,
+        "send_time": 38,
+        "path": "https://p1.meituan.net/waimaipoi/855574623ecb987e42ac02ad18ce5e4083406.jpg"
+      }
+    ],
+    [
+      {
+        "id": 5,
+        "name": "永和大王（河西儿童医院店FNJ01)",
+        "rating": 4.0,
+        "pre_price": 20,
+        "send_price": 3,
+        "send_time": 31,
+        "path": "https://p1.meituan.net/waimaipoi/ac177d11f33cfcd0c887f89bb28123ab25226.jpg"
+      },
+      {
+        "id": 6,
+        "name": "黄焖鸡米饭重庆小面（崇文店）",
+        "rating": 4.0,
+        "pre_price": 20,
+        "send_price": 1,
+        "send_time": 30,
+        "path": "https://p0.meituan.net/waimaipoi/55c1ee60c9129931421f4a545c6fcb7f34816.jpg"
+      },
+      {
+        "name": "桥头排骨（莲池路店）",
+        "rating": 4.6,
+        "pre_price": 20,
+        "send_price": 3,
+        "send_time": 35,
+        "path": "https://p0.meituan.net/business/9e496ce1c5cc3df413e8bc137ca75c63181582.png"
+      },
+      {
+        "name": "芝根芝底PIZZA（油坊桥店）",
+        "rating": 4.6,
+        "pre_price": 20,
+        "send_price": 2,
+        "send_time": 46,
+        "path": "https://p0.meituan.net/waimaipoi/de9901a0a7098123c0bf3ba614892aad55402.jpg"
+      }
+    ],
+    [
+      {
+        "name": "金粮酸菜鱼",
+        "rating": 4.2,
+        "pre_price": 20,
+        "send_price": 3,
+        "send_time": 30,
+        "path": "https://p1.meituan.net/waimaipoi/ccd0ec84cbe2c8d86efcd6dcea238b32363144.jpg"
+      },
+      {
+        "name": "回味鸭血粉丝汤(天迈广场店)",
+        "rating": 4.7,
+        "pre_price": 10,
+        "send_price": 3,
+        "send_time": 35,
+        "path": "https://p0.meituan.net/waimaipoi/71189246ac95aef13e7b0fb3e60f777f55677.jpg"
+      },
+      {
+        "name": "石上百味（游坊城店）",
+        "rating": 4.3,
+        "pre_price": 20,
+        "send_price": 4,
+        "send_time": 41,
+        "path": "https://p0.meituan.net/waimaipoi/4baf665c55aa95b7843db7e0b46ca88a33435.jpg"
+      },
+      {
+        "name": "汉堡王（南京油坊城店22829）",
+        "rating": 4.2,
+        "pre_price": 20,
+        "send_price": 4,
+        "send_time": 38,
+        "path": "https://p1.meituan.net/waimaipoi/855574623ecb987e42ac02ad18ce5e4083406.jpg"
+      }
+    ],
+    [
+      {
+        "name": "永和大王（河西儿童医院店FNJ01)",
+        "rating": 4.0,
+        "pre_price": 20,
+        "send_price": 3,
+        "send_time": 31,
+        "path": "https://p1.meituan.net/waimaipoi/ac177d11f33cfcd0c887f89bb28123ab25226.jpg"
+      },
+      {
+        "name": "黄焖鸡米饭重庆小面（崇文店）",
+        "rating": 4.0,
+        "pre_price": 20,
+        "send_price": 1,
+        "send_time": 30,
+        "path": "https://p0.meituan.net/waimaipoi/55c1ee60c9129931421f4a545c6fcb7f34816.jpg"
+      },
+      {
+        "name": "桥头排骨（莲池路店）",
+        "rating": 4.6,
+        "pre_price": 20,
+        "send_price": 3,
+        "send_time": 35,
+        "path": "https://p0.meituan.net/business/9e496ce1c5cc3df413e8bc137ca75c63181582.png"
+      },
+      {
+        "name": "芝根芝底PIZZA（油坊桥店）",
+        "rating": 4.6,
+        "pre_price": 20,
+        "send_price": 2,
+        "send_time": 46,
+        "path": "https://p0.meituan.net/waimaipoi/de9901a0a7098123c0bf3ba614892aad55402.jpg"
+      }
+    ],
+    [
+      {
+        "name": "金粮酸菜鱼",
+        "rating": 4.2,
+        "pre_price": 20,
+        "send_price": 3,
+        "send_time": 30,
+        "path": "https://p1.meituan.net/waimaipoi/ccd0ec84cbe2c8d86efcd6dcea238b32363144.jpg"
+      },
+      {
+        "name": "回味鸭血粉丝汤(天迈广场店)",
+        "rating": 4.7,
+        "pre_price": 10,
+        "send_price": 3,
+        "send_time": 35,
+        "path": "https://p0.meituan.net/waimaipoi/71189246ac95aef13e7b0fb3e60f777f55677.jpg"
+      },
+      {
+        "name": "石上百味（游坊城店）",
+        "rating": 4.3,
+        "pre_price": 20,
+        "send_price": 4,
+        "send_time": 41,
+        "path": "https://p0.meituan.net/waimaipoi/4baf665c55aa95b7843db7e0b46ca88a33435.jpg"
+      },
+      {
+        "name": "汉堡王（南京油坊城店22829）",
+        "rating": 4.2,
+        "pre_price": 20,
+        "send_price": 4,
+        "send_time": 38,
+        "path": "https://p1.meituan.net/waimaipoi/855574623ecb987e42ac02ad18ce5e4083406.jpg"
+      }
+    ],
+    [
+      {
+        "name": "永和大王（河西儿童医院店FNJ01)",
+        "rating": 4.0,
+        "pre_price": 20,
+        "send_price": 3,
+        "send_time": 31,
+        "path": "https://p1.meituan.net/waimaipoi/ac177d11f33cfcd0c887f89bb28123ab25226.jpg"
+      },
+      {
+        "name": "黄焖鸡米饭重庆小面（崇文店）",
+        "rating": 4.0,
+        "pre_price": 20,
+        "send_price": 1,
+        "send_time": 30,
+        "path": "https://p0.meituan.net/waimaipoi/55c1ee60c9129931421f4a545c6fcb7f34816.jpg"
+      },
+      {
+        "name": "桥头排骨（莲池路店）",
+        "rating": 4.6,
+        "pre_price": 20,
+        "send_price": 3,
+        "send_time": 35,
+        "path": "https://p0.meituan.net/business/9e496ce1c5cc3df413e8bc137ca75c63181582.png"
+      },
+      {
+        "name": "芝根芝底PIZZA（油坊桥店）",
+        "rating": 4.6,
+        "pre_price": 20,
+        "send_price": 2,
+        "send_time": 46,
+        "path": "https://p0.meituan.net/waimaipoi/de9901a0a7098123c0bf3ba614892aad55402.jpg"
+      }
+    ],
+    [
+      {
+        "name": "金粮酸菜鱼",
+        "rating": 4.2,
+        "pre_price": 20,
+        "send_price": 3,
+        "send_time": 30,
+        "path": "https://p1.meituan.net/waimaipoi/ccd0ec84cbe2c8d86efcd6dcea238b32363144.jpg"
+      },
+      {
+        "name": "回味鸭血粉丝汤(天迈广场店)",
+        "rating": 4.7,
+        "pre_price": 10,
+        "send_price": 3,
+        "send_time": 35,
+        "path": "https://p0.meituan.net/waimaipoi/71189246ac95aef13e7b0fb3e60f777f55677.jpg"
+      },
+      {
+        "name": "石上百味（游坊城店）",
+        "rating": 4.3,
+        "pre_price": 20,
+        "send_price": 4,
+        "send_time": 41,
+        "path": "https://p0.meituan.net/waimaipoi/4baf665c55aa95b7843db7e0b46ca88a33435.jpg"
+      },
+      {
+        "name": "汉堡王（南京油坊城店22829）",
+        "rating": 4.2,
+        "pre_price": 20,
+        "send_price": 4,
+        "send_time": 38,
+        "path": "https://p1.meituan.net/waimaipoi/855574623ecb987e42ac02ad18ce5e4083406.jpg"
+      }
+    ],
+    [
+      {
+        "name": "永和大王（河西儿童医院店FNJ01)",
+        "rating": 4.0,
+        "pre_price": 20,
+        "send_price": 3,
+        "send_time": 31,
+        "path": "https://p1.meituan.net/waimaipoi/ac177d11f33cfcd0c887f89bb28123ab25226.jpg"
+      },
+      {
+        "name": "黄焖鸡米饭重庆小面（崇文店）",
+        "rating": 4.0,
+        "pre_price": 20,
+        "send_price": 1,
+        "send_time": 30,
+        "path": "https://p0.meituan.net/waimaipoi/55c1ee60c9129931421f4a545c6fcb7f34816.jpg"
+      },
+      {
+        "name": "桥头排骨（莲池路店）",
+        "rating": 4.6,
+        "pre_price": 20,
+        "send_price": 3,
+        "send_time": 35,
+        "path": "https://p0.meituan.net/business/9e496ce1c5cc3df413e8bc137ca75c63181582.png"
+      },
+      {
+        "name": "芝根芝底PIZZA（油坊桥店）",
+        "rating": 4.6,
+        "pre_price": 20,
+        "send_price": 2,
+        "send_time": 46,
+        "path": "https://p0.meituan.net/waimaipoi/de9901a0a7098123c0bf3ba614892aad55402.jpg"
+      }
+    ]
+  ],
+  "shop": {
+    "id": 4,
+    "name": "汉堡王（南京油坊城店22829）",
+    "rating": 4.2,
+    "pre_price": 100,
+    "send_price": 4,
+    "send_time": 38,
+    "heartShow": false,
+    "path": "https://p1.meituan.net/waimaipoi/855574623ecb987e42ac02ad18ce5e4083406.jpg",
+    "time": "08:00-23:00",
+    "addr": "雨花区养回红158号",
+    "info_img": [
+      "https://p0.meituan.net/waimaipoi/a1c2bb4bcd54dc12891b99fd366282c1205248.jpg",
+      "https://p0.meituan.net/waimaipoi/aa4e785a7dea85d4c2c1cc0699115d4d217659.jpg"
+    ]
+  },
+  "goods": [
+    {
+      "title": "超人气组合",
+      "list": []
+    },
+    {
+      "title": "天天半价工作餐",
+      "list": [
+        {
+          "imgSrc": "https://p0.meituan.net/210.0/xianfu/d6774dc81dea78b8ed3a2e0dcf6eae9787697.png",
+          "name": "周一半价单人餐",
+          "ok": 1,
+          "price": 44
+        },
+        {
+          "imgSrc": "https://p0.meituan.net/210.0/xianfu/abb14a0f662da35d27be5d863117b82d101721.png",
+          "name": "周二半价双人套餐",
+          "ok": 3,
+          "price": 93
+        },
+        {
+          "imgSrc": "https://p1.meituan.net/210.0/xianfu/d50d7830797a227c6b9f74ad2ec12fd1273624.png",
+          "name": "周三半价双享套餐",
+          "ok": 0,
+          "price": 88
+        },
+        {
+          "imgSrc": "https://p0.meituan.net/210.0/xianfu/b4327f7fe48dc96d156d329ec364592472325.png",
+          "name": "周四半价独享套餐",
+          "ok": 2,
+          "price": 42
+        },
+        {
+          "imgSrc": "https://p0.meituan.net/210.0/xianfu/585470bee54604f3b95fdb36e06325df198612.png",
+          "name": "周五好事成双鸡块买一送一",
+          "ok": 0,
+          "price": 23
+        }
+      ]
+    },
+    {
+      "title": "套餐汉堡",
+      "list": [
+        {
+          "imgSrc": "https://p0.meituan.net/210.0/xianfu/35c4cafaf8cf38e9d77af82307025a4f236762.png",
+          "name": "煎蛋小皇堡套餐",
+          "ok": 0,
+          "price": 33
+        },
+        {
+          "imgSrc": "https://p1.meituan.net/210.0/xianfu/d4a7fce96ac8f4671dab49cb0c2e938765593.png",
+          "name": "三层皇堡套餐",
+          "ok": 4,
+          "price": 57
+        },
+        {
+          "imgSrc": "https://p0.meituan.net/210.0/xianfu/05dd898323f3ff7a76bc5295e1496a6265593.png",
+          "name": "三层天椒皇堡套餐",
+          "ok": 3,
+          "price": 57
+        }
+      ]
+    },
+    {
+      "title": "单品汉堡",
+      "list": [
+        {
+          "imgSrc": "https://p0.meituan.net/210.0/xianfu/35c4cafaf8cf38e9d77af82307025a4f236762.png",
+          "name": "煎蛋小皇堡套餐",
+          "ok": 0,
+          "price": 33
+        },
+        {
+          "imgSrc": "https://p1.meituan.net/210.0/xianfu/d4a7fce96ac8f4671dab49cb0c2e938765593.png",
+          "name": "三层皇堡套餐",
+          "ok": 4,
+          "price": 57
+        },
+        {
+          "imgSrc": "https://p0.meituan.net/210.0/xianfu/05dd898323f3ff7a76bc5295e1496a6265593.png",
+          "name": "三层天椒皇堡套餐",
+          "ok": 3,
+          "price": 57
+        }
+      ]
+    }
+  ],
+  "goodList": [
+    {
+      "name": "钢管厂五区小郡肝串串香（羊皮巷店）",
+      "src": "http://p1.meituan.net/msmerchant/268729c5dcd0cefaed30306a0227b0ae61752.jpg@267w_150h_1e_1c",
+      "rate": 3.5,
+      "count": 931,
+      "addr": "新街口",
+      "price": 79.0
+    },
+    {
+      "name": "秀兰鸭血粉丝（殷巷店）",
+      "src": "https://p0.meituan.net/msmerchant/e4ee65bd6d9d91c317f232ded833bf4c30064.jpg@267w_150h_1e_1c",
+      "rate": 5,
+      "count": 427,
+      "addr": "殷巷",
+      "price": 13.9
+    },
+    {
+      "name": "漫山羊手切鲜羊火锅（澳林广场店）",
+      "src": "https://p1.meituan.net/msmerchant/f75d9db81c47f4aad3c5c697c8cd22e382839.jpg@267w_150h_1e_1c",
+      "rate": 4,
+      "count": 2695,
+      "addr": "澳林广场",
+      "price": 88.0
+    },
+    {
+      "name": "宝胜家",
+      "src": "https://p0.meituan.net/mogu/02492aea1b668510a2b57575c5c7448d335717.jpg@267w_150h_1e_1c",
+      "rate": 4.2,
+      "count": 407,
+      "addr": "佘山",
+      "price": 89.0
+    },
+    {
+      "name": "舌尚烤肉海鲜自助（夫子庙店）",
+      "src": "https://p1.meituan.net/msmerchant/df4ce02b5409fbc9727264e13d0c3fd849794.png@267w_150h_1e_1c",
+      "rate": 5,
+      "count": 407,
+      "addr": "夫子庙",
+      "price": 63.0
+    },
+    {
+      "name": "钢管厂五区小郡肝串串香（羊皮巷店）",
+      "src": "http://p1.meituan.net/msmerchant/268729c5dcd0cefaed30306a0227b0ae61752.jpg@267w_150h_1e_1c",
+      "rate": 3.5,
+      "count": 931,
+      "addr": "新街口",
+      "price": 79.0
+    },
+    {
+      "name": "秀兰鸭血粉丝（殷巷店）",
+      "src": "https://p0.meituan.net/msmerchant/e4ee65bd6d9d91c317f232ded833bf4c30064.jpg@267w_150h_1e_1c",
+      "rate": 5,
+      "count": 427,
+      "addr": "殷巷",
+      "price": 13.9
+    },
+    {
+      "name": "漫山羊手切鲜羊火锅（澳林广场店）",
+      "src": "https://p1.meituan.net/msmerchant/f75d9db81c47f4aad3c5c697c8cd22e382839.jpg@267w_150h_1e_1c",
+      "rate": 4,
+      "count": 2695,
+      "addr": "澳林广场",
+      "price": 88.0
+    },
+    {
+      "name": "宝胜家",
+      "src": "https://p0.meituan.net/mogu/02492aea1b668510a2b57575c5c7448d335717.jpg@267w_150h_1e_1c",
+      "rate": 4.2,
+      "count": 407,
+      "addr": "佘山",
+      "price": 89.0
+    },
+    {
+      "name": "舌尚烤肉海鲜自助（夫子庙店）",
+      "src": "https://p1.meituan.net/msmerchant/df4ce02b5409fbc9727264e13d0c3fd849794.png@267w_150h_1e_1c",
+      "rate": 5,
+      "count": 407,
+      "addr": "夫子庙",
+      "price": 63.0
+    },
+    {
+      "name": "钢管厂五区小郡肝串串香（羊皮巷店）",
+      "src": "http://p1.meituan.net/msmerchant/268729c5dcd0cefaed30306a0227b0ae61752.jpg@267w_150h_1e_1c",
+      "rate": 3.5,
+      "count": 931,
+      "addr": "新街口",
+      "price": 79.0
+    },
+    {
+      "name": "秀兰鸭血粉丝（殷巷店）",
+      "src": "https://p0.meituan.net/msmerchant/e4ee65bd6d9d91c317f232ded833bf4c30064.jpg@267w_150h_1e_1c",
+      "rate": 5,
+      "count": 427,
+      "addr": "殷巷",
+      "price": 13.9
+    },
+    {
+      "name": "漫山羊手切鲜羊火锅（澳林广场店）",
+      "src": "https://p1.meituan.net/msmerchant/f75d9db81c47f4aad3c5c697c8cd22e382839.jpg@267w_150h_1e_1c",
+      "rate": 4,
+      "count": 2695,
+      "addr": "澳林广场",
+      "price": 88.0
+    },
+    {
+      "name": "宝胜家",
+      "src": "https://p0.meituan.net/mogu/02492aea1b668510a2b57575c5c7448d335717.jpg@267w_150h_1e_1c",
+      "rate": 4.2,
+      "count": 407,
+      "addr": "佘山",
+      "price": 89.0
+    },
+    {
+      "name": "舌尚烤肉海鲜自助（夫子庙店）",
+      "src": "https://p1.meituan.net/msmerchant/df4ce02b5409fbc9727264e13d0c3fd849794.png@267w_150h_1e_1c",
+      "rate": 5,
+      "count": 407,
+      "addr": "夫子庙",
+      "price": 63.0
+    }
+  ]
+}
