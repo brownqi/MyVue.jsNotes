@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b9958bfd-4e1a-4c85-9cac-5e4a502a3cff" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+        <option value="Vue Single File Component" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZLK3SHuUwjuxdlfiXefqemC2yz" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/comm" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="prettierjs.PrettierConfiguration.Package" value="W:\workSpace\WebstormProjects\vuedemo00\node_modules\prettier" />
+    <property name="settings.editor.selected.configurable" value="fileTemplates" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="W:\workSpace\WebstormProjects\vuedemo00\src\comm" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="W:\workSpace\WebstormProjects\vuedemo00\src\comm" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b9958bfd-4e1a-4c85-9cac-5e4a502a3cff" name="Default Changelist" comment="" />
+      <created>1584612735129</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584612735129</updated>
+      <workItem from="1584612739815" duration="15710000" />
+      <workItem from="1584629303568" duration="6543000" />
+      <workItem from="1584661163488" duration="5472000" />
+      <workItem from="1584667828735" duration="33139000" />
+      <workItem from="1584716517568" duration="302000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="690" y="1366" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1584612792659">
+      <screen x="0" y="1080" width="1920" height="1080" />
+    </state>
+    <state x="690" y="1366" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040/0.1080.1920.1080@0.1080.1920.1080" timestamp="1584612792659" />
+    <state x="740" y="1374" key="FileChooserDialogImpl" timestamp="1584681443815">
+      <screen x="0" y="1080" width="1920" height="1080" />
+    </state>
+    <state x="740" y="283" key="FileChooserDialogImpl/0.0.1920.1040/0.1080.1920.1080@0.0.1920.1040" timestamp="1584672805754" />
+    <state x="740" y="1374" key="FileChooserDialogImpl/0.0.1920.1040/0.1080.1920.1080@0.1080.1920.1080" timestamp="1584681443815" />
+    <state x="461" y="1261" key="SettingsEditor" timestamp="1584630913556">
+      <screen x="0" y="1080" width="1920" height="1080" />
+    </state>
+    <state x="461" y="1261" key="SettingsEditor/0.0.1920.1040/0.1080.1920.1080@0.1080.1920.1080" timestamp="1584630913556" />
+    <state x="616" y="790" key="run.anything.popup" timestamp="1584696029612">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="790" key="run.anything.popup/0.0.1920.1040/0.1080.1920.1080@0.1080.1920.1080" timestamp="1584696029612" />
+  </component>
+</project>
