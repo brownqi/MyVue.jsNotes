@@ -2,7 +2,11 @@
 
 ## 目录
 
-### vue-demo
+### vue-demo-01
+
+仿制美团主页 [我的页面](http://www.brownqi.cn/2020/03/25/vue_demo01)
+
+### vue-demo-00
 
 参照如下界面，使用vue完成 [我的页面](http://www.brownqi.cn/2020/03/20/vue_demo00)![](https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1584727432176&di=4b8972810f4b27f0e8070f91fea220cc&imgtype=0&src=http%3A%2F%2Fimg1.imgtn.bdimg.com%2Fit%2Fu%3D1190863061%2C1525658210%26fm%3D214%26gp%3D0.jpg)
 
